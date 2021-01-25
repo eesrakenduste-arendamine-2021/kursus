@@ -1,0 +1,2 @@
+# kursus
+Üldinfo kursusel osalejatele.
