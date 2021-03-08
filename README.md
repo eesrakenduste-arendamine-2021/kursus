@@ -3,6 +3,10 @@
 * **Õpetaja:** Tauri Kirsipuu, [kirsipuutauri@gmail.com]
 * **Testserver:** lin2.tlu.ee (html, js), greeny.cs.tlu.ee (ssl)
 
+Link tulemustele: https://docs.google.com/spreadsheets/d/1wslUwd7iRUXFu4HJW8KKyr2B2NuEMYci3eWrL7_d5pU/edit?usp=sharing
+
+Videoloengute playlist: https://youtube.com/playlist?list=PLGNmyPTHsS7j_m2CKBbgJ3nn8LOm9BqQl
+
 ### Ühendus Greeny'sse
 
 * Windows | [VIDEO](https://youtu.be/kg5NAsRQAJ8)
